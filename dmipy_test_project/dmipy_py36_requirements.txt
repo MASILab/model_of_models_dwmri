@@ -66,7 +66,7 @@ tensorflow-gpu==1.15.0
 termcolor==1.1.0
 urllib3==1.25.8
 virtualenv==20.0.3
-vtk==8.1.2
+vtk==9.0.1
 Werkzeug==0.16.0
 wrapt==1.11.2
 zipp==2.2.0
